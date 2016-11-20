@@ -1,0 +1,41 @@
+.header1 {
+	height: 15vh;
+	background: blue;
+	margin: 10px 0;
+	border-radius: 20px;
+	
+}
+
+.header2 {
+	height: 15vh;
+	background: orange;
+	margin: 10px 0;
+	border-radius: 20px;
+	padding-left: 10px;
+	}
+
+.content {
+	height: 50vh;
+	background: red;
+	margin: 10px 0;
+	border-radius: 20px;
+}
+
+.container-fluid {
+	margin: 0 2vh;
+}
+
+.footer {
+	height: 15vh;
+	background: yellow;
+	margin: 10px 0;
+	border-radius: 20px;
+	}
+
+.footer2 {
+	height: 15vh;
+	background: pink;
+	margin: 10px 0;
+	border-radius: 20px;
+	}
+
